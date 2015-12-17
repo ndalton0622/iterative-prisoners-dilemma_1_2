@@ -1,0 +1,1908 @@
+team 1 vs. team 0
+-250 vs. -250
+backstabber vs. loyal
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 2 vs. team 0
+-5 vs. -1
+loyal vengeful vs. loyal
+cb                                                                                                                                                                                     
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 2 vs. team 1
+-5 vs. -1
+loyal vengeful vs. backstabber
+cb                                                                                                                                                                               
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 3 vs. team 0
+-6 vs. -2
+loyal vengeful vs. loyal
+cb                                                                                                                             
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 3 vs. team 1
+-5 vs. -1
+loyal vengeful vs. backstabber
+cb                                                                                                                                                                   
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 3 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                       
+c                                                                                                                       
+
+team 4 vs. team 0
+-84 vs. -84
+betray every 3rd round vs. loyal
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 4 vs. team 1
+-84 vs. -84
+betray every 3rd round vs. backstabber
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 4 vs. team 2
+0 vs. -4
+betray every 3rd round vs. loyal vengeful
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  
+cb                                                                                                                                                 
+
+team 4 vs. team 3
+0 vs. -5
+betray every 3rd round vs. loyal vengeful
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b
+cb                                                                                                                          
+
+team 5 vs. team 0
+-5 vs. -1
+loyal vengeful vs. loyal
+cb                                                                                                                                                                                       
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 5 vs. team 1
+-5 vs. -1
+loyal vengeful vs. backstabber
+cb                                                                                                                                                     
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 5 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                             
+c                                                                                                                                                                             
+
+team 5 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                       
+c                                                                                                                                                       
+
+team 5 vs. team 4
+-5 vs. 0
+loyal vengeful vs. betray every 3rd round
+cb                                                                                                                  
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b 
+
+team 6 vs. team 0
+-5 vs. -1
+loyal vengeful vs. loyal
+cb                                                                                                                                                                       
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 6 vs. team 1
+-5 vs. -1
+loyal vengeful vs. backstabber
+cb                                                                                                                                                          
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 6 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                        
+c                                                                                                                                                                        
+
+team 6 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                                        
+c                                                                                                                                                                                        
+
+team 6 vs. team 4
+-5 vs. 1
+loyal vengeful vs. betray every 3rd round
+cb                                                                                                  
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b
+
+team 6 vs. team 5
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                         
+c                                                                                                                         
+
+team 7 vs. team 0
+-2 vs. -2
+loyal vengeful vs. loyal
+b                                                                                                                                                                                                  
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 7 vs. team 1
+-2 vs. -2
+loyal vengeful vs. backstabber
+b                                                                                                                                                                                         
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 7 vs. team 2
+0 vs. -5
+loyal vengeful vs. loyal vengeful
+b                                                                                                                   
+cb                                                                                                                  
+
+team 7 vs. team 3
+0 vs. -4
+loyal vengeful vs. loyal vengeful
+b                                                                                                                                              
+cb                                                                                                                                             
+
+team 7 vs. team 4
+-2 vs. -2
+loyal vengeful vs. betray every 3rd round
+b                                                                                                                                                                                    
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b
+
+team 7 vs. team 5
+0 vs. -4
+loyal vengeful vs. loyal vengeful
+b                                                                                                                                          
+cb                                                                                                                                         
+
+team 7 vs. team 6
+0 vs. -5
+loyal vengeful vs. loyal vengeful
+b                                                                                                                    
+cb                                                                                                                   
+
+team 8 vs. team 0
+-253 vs. -248
+loyal vengeful with permanent second impression vs. loyal
+bcbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 8 vs. team 1
+-253 vs. -247
+loyal vengeful with permanent second impression vs. backstabber
+bcbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 8 vs. team 2
+-4 vs. -4
+loyal vengeful with permanent second impression vs. loyal vengeful
+bcbcc c                                                                                                         
+cb                                                                                                              
+
+team 8 vs. team 3
+-3 vs. -3
+loyal vengeful with permanent second impression vs. loyal vengeful
+bcbcc c                                                                                                                                                      
+cb                                                                                                                                                           
+
+team 8 vs. team 4
+-4 vs. -1
+loyal vengeful with permanent second impression vs. betray every 3rd round
+bcc c cbc b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  
+
+team 8 vs. team 5
+-4 vs. -4
+loyal vengeful with permanent second impression vs. loyal vengeful
+bcbcc c                                                                                                                              
+cb                                                                                                                                   
+
+team 8 vs. team 6
+-3 vs. -3
+loyal vengeful with permanent second impression vs. loyal vengeful
+bcbcc c                                                                                                                                                      
+cb                                                                                                                                                           
+
+team 8 vs. team 7
+-3 vs. -3
+loyal vengeful with permanent second impression vs. loyal vengeful
+bcc c                                                                                                      
+b                                                                                                          
+
+team 9 vs. team 0
+-375 vs. -75
+loyal vengeful vs. loyal
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 9 vs. team 1
+-376 vs. -75
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 9 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c                                                                                                                                                                                               
+
+team 9 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c                                                                                                                                                                 
+
+team 9 vs. team 4
+-167 vs. 33
+loyal vengeful vs. betray every 3rd round
+cbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbc
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  
+
+team 9 vs. team 5
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c                                                                                                                                                     
+
+team 9 vs. team 6
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c                                                                                                                  
+
+team 9 vs. team 7
+-5 vs. 0
+loyal vengeful vs. loyal vengeful
+cbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+b                                                                                                               
+
+team 9 vs. team 8
+-202 vs. -199
+loyal vengeful vs. loyal vengeful with permanent second impression
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+
+team 10 vs. team 0
+-250 vs. -250
+loyal vengeful vs. loyal
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 10 vs. team 1
+-250 vs. -250
+loyal vengeful vs. backstabber
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 10 vs. team 2
+-1 vs. -5
+loyal vengeful vs. loyal vengeful
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cb                                                                                                                                                                       
+
+team 10 vs. team 3
+-2 vs. -7
+loyal vengeful vs. loyal vengeful
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cb                                                                                                           
+
+team 10 vs. team 4
+-84 vs. -84
+loyal vengeful vs. betray every 3rd round
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b 
+
+team 10 vs. team 5
+-2 vs. -8
+loyal vengeful vs. loyal vengeful
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cb                                                                                                         
+
+team 10 vs. team 6
+-2 vs. -6
+loyal vengeful vs. loyal vengeful
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cb                                                                                                                              
+
+team 10 vs. team 7
+-2 vs. -2
+loyal vengeful vs. loyal vengeful
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+b                                                                                                                                                                               
+
+team 10 vs. team 8
+-248 vs. -252
+loyal vengeful vs. loyal vengeful with permanent second impression
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bcbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 10 vs. team 9
+-75 vs. -376
+loyal vengeful vs. loyal vengeful
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+
+team 11 vs. team 0
+-375 vs. -75
+loyal vengeful vs. loyal
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 11 vs. team 1
+-375 vs. -75
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 11 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c                                                                                                                                                                                    
+
+team 11 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c                                                                                                                                                                      
+
+team 11 vs. team 4
+-167 vs. 33
+loyal vengeful vs. betray every 3rd round
+cbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbc
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  
+
+team 11 vs. team 5
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c                                                                                                                                          
+
+team 11 vs. team 6
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c                                                                                                                                                                                
+
+team 11 vs. team 7
+-4 vs. 0
+loyal vengeful vs. loyal vengeful
+cbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+b                                                                                                                                                                  
+
+team 11 vs. team 8
+-200 vs. -200
+loyal vengeful vs. loyal vengeful with permanent second impression
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+
+team 11 vs. team 9
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 10
+-375 vs. -75
+loyal vengeful vs. loyal vengeful
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 12 vs. team 0
+-2 vs. -2
+loyal vengeful vs. loyal
+b                                                                                                                               
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 12 vs. team 1
+-2 vs. -2
+loyal vengeful vs. backstabber
+b                                                                                                                                                                                   
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 12 vs. team 2
+0 vs. -5
+loyal vengeful vs. loyal vengeful
+b                                                                                                      
+cb                                                                                                     
+
+team 12 vs. team 3
+0 vs. -5
+loyal vengeful vs. loyal vengeful
+b                                                                                                                    
+cb                                                                                                                   
+
+team 12 vs. team 4
+-3 vs. -3
+loyal vengeful vs. betray every 3rd round
+b                                                                                                                         
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b 
+
+team 12 vs. team 5
+0 vs. -3
+loyal vengeful vs. loyal vengeful
+b                                                                                                                                                                                 
+cb                                                                                                                                                                                
+
+team 12 vs. team 6
+0 vs. -5
+loyal vengeful vs. loyal vengeful
+b                                                                                                                      
+cb                                                                                                                     
+
+team 12 vs. team 7
+-2 vs. -2
+loyal vengeful vs. loyal vengeful
+b                                                                                                                                           
+b                                                                                                                                           
+
+team 12 vs. team 8
+-2 vs. -2
+loyal vengeful vs. loyal vengeful with permanent second impression
+b                                                                                                                                                                    
+bcc c                                                                                                                                                                
+
+team 12 vs. team 9
+0 vs. -4
+loyal vengeful vs. loyal vengeful
+b                                                                                                                                                                 
+cbcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 12 vs. team 10
+-2 vs. -2
+loyal vengeful vs. loyal vengeful
+b                                                                                                                                    
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 12 vs. team 11
+0 vs. -3
+loyal vengeful vs. loyal vengeful
+b                                                                                                                                                                                      
+cbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 0
+-5 vs. -1
+loyal vengeful vs. loyal
+cb                                                                                                                                                                                     
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 13 vs. team 1
+-8 vs. -2
+loyal vengeful vs. backstabber
+cb                                                                                                    
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 13 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                                               
+c                                                                                                                                                                                               
+
+team 13 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                       
+c                                                                                                                                       
+
+team 13 vs. team 4
+-3 vs. 0
+loyal vengeful vs. betray every 3rd round
+cb                                                                                                                                                                                                    
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  
+
+team 13 vs. team 5
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                        
+c                                                                                                        
+
+team 13 vs. team 6
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                                                  
+c                                                                                                                                                                                                  
+
+team 13 vs. team 7
+-4 vs. 0
+loyal vengeful vs. loyal vengeful
+cb                                                                                                                                                   
+b                                                                                                                                                    
+
+team 13 vs. team 8
+-3 vs. -3
+loyal vengeful vs. loyal vengeful with permanent second impression
+cb                                                                                                                                                                                                   
+bcbcc c                                                                                                                                                                                              
+
+team 13 vs. team 9
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                    
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 10
+-7 vs. -2
+loyal vengeful vs. loyal vengeful
+cb                                                                                                              
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 13 vs. team 11
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                                  
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 13 vs. team 12
+-3 vs. 0
+loyal vengeful vs. loyal vengeful
+cb                                                                                                                                                                       
+b                                                                                                                                                                        
+
+team 14 vs. team 0
+-27 vs. -23
+loyal vengeful occasionally greedy vs. loyal
+cb                        b    b     b     b                         b   b             b            bb            bb  b  b   b                          b                  
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 14 vs. team 1
+-27 vs. -24
+loyal vengeful occasionally greedy vs. backstabber
+cb               b            b                   b b       b       b    b    b             b      b b    bb     b       b                 b                                     
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 14 vs. team 2
+0 vs. 0
+loyal vengeful occasionally greedy vs. loyal vengeful
+cbb                        b          b b                                           b                       bb                 
+c                                                                                                                              
+
+team 14 vs. team 3
+0 vs. 0
+loyal vengeful occasionally greedy vs. loyal vengeful
+cbb             b     b   b                 b             b    b                     b           b b                     b          b                     b
+c                                                                                                                                                          
+
+team 14 vs. team 4
+-6 vs. -3
+loyal vengeful occasionally greedy vs. betray every 3rd round
+cbb                      b     b  b                         b              bb                             b                                                  b                                      
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b
+
+team 14 vs. team 5
+0 vs. 0
+loyal vengeful occasionally greedy vs. loyal vengeful
+c          b                             b bb b         bbb b         b                               b            
+c                                                                                                                  
+
+team 14 vs. team 6
+0 vs. 0
+loyal vengeful occasionally greedy vs. loyal vengeful
+c b  b b              b  b                                     bb                    bb      b     b  b                            b                  
+c                                                                                                                                                     
+
+team 14 vs. team 7
+-3 vs. 0
+loyal vengeful occasionally greedy vs. loyal vengeful
+cb      b    b    bb  b  b          b   b                              b            b b      b                b    b b      b b b                  b                         b             
+b                                                                                                                                                                                          
+
+team 14 vs. team 8
+-3 vs. -3
+loyal vengeful occasionally greedy vs. loyal vengeful with permanent second impression
+cb   b            b    b               b                  b     b         b    b    b    b                   b    b      b    b       
+bcbcc c c          b    b               b                  b     b         b    b    b    b                   b    b      b    b      
+
+team 14 vs. team 9
+6 vs. -57
+loyal vengeful occasionally greedy vs. loyal vengeful
+c   b  b          b        bb             b  b  b       b b            b      b          bb    b                           
+cccccbccbccccccccccbccccccccbccccccccccccccbccbccbcccccccbcbccccccccccccbccccccbccccccccccbcccccbcccccccccccccccccccccccccc
+
+team 14 vs. team 10
+-22 vs. -17
+loyal vengeful occasionally greedy vs. loyal vengeful
+cb           b    b                                     b     b        b              b   b                         
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 14 vs. team 11
+3 vs. -36
+loyal vengeful occasionally greedy vs. loyal vengeful
+cb     b                            b                                   b   b                     b                b                      b   bb      bb      b      b                
+ccbcccccbccccccccccccccccccccccccccccbcccccccccccccccccccccccccccccccccccbcccbcccccccccccccccccccccbccccccccccccccccbccccccccccccccccccccccbcccbcccccccbcccccccbccccccbccccccccccccccc
+
+team 14 vs. team 12
+-5 vs. 0
+loyal vengeful occasionally greedy vs. loyal vengeful
+cb b                              b    b                bbb        b b                      b        bbb  b  b b    b   
+b                                                                                                                       
+
+team 14 vs. team 13
+0 vs. 0
+loyal vengeful occasionally greedy vs. loyal vengeful
+c b               b          b          b                                 b                b b      b         b       
+c                                                                                                                     
+
+team 15 vs. team 0
+-5 vs. -1
+loyal vengeful vs. loyal
+cb                                                                                                                                                                                    
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 15 vs. team 1
+-6 vs. -2
+loyal vengeful vs. backstabber
+cb                                                                                                                                                   
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 15 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                                      
+c                                                                                                                                                                                      
+
+team 15 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                            
+c                                                                                                            
+
+team 15 vs. team 4
+-5 vs. 0
+loyal vengeful vs. betray every 3rd round
+cb                                                                                                                
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  
+
+team 15 vs. team 5
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                 
+c                                                                                                                                                                 
+
+team 15 vs. team 6
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                  
+c                                                                                                                                                  
+
+team 15 vs. team 7
+-3 vs. 0
+loyal vengeful vs. loyal vengeful
+cb                                                                                                                                                                                           
+b                                                                                                                                                                                            
+
+team 15 vs. team 8
+-4 vs. -4
+loyal vengeful vs. loyal vengeful with permanent second impression
+cb                                                                                                                      
+bcbcc c                                                                                                                 
+
+team 15 vs. team 9
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                                                    
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 15 vs. team 10
+-5 vs. -1
+loyal vengeful vs. loyal vengeful
+cb                                                                                                                                                                                    
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 15 vs. team 11
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                      
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 15 vs. team 12
+-3 vs. 0
+loyal vengeful vs. loyal vengeful
+cb                                                                                                                                                                     
+b                                                                                                                                                                      
+
+team 15 vs. team 13
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                            
+c                                                                                                            
+
+team 15 vs. team 14
+0 vs. 0
+loyal vengeful vs. loyal vengeful occasionally greedy
+c                                                                                                                                               
+c   b  b        b           b  b   b            b  b                        b b  b   b     b bb  b       b        b     b   b            b    b 
+
+team 16 vs. team 0
+-5 vs. -1
+loyal vengeful vs. loyal
+cb                                                                                                                                                                                  
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 16 vs. team 1
+-4 vs. -1
+loyal vengeful vs. backstabber
+cb                                                                                                                                                                                                
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 16 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                  
+c                                                                                                                  
+
+team 16 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                            
+c                                                                                                                                                            
+
+team 16 vs. team 4
+-3 vs. 0
+loyal vengeful vs. betray every 3rd round
+cb                                                                                                                                                                                           
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  
+
+team 16 vs. team 5
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                                      
+c                                                                                                                                                                                      
+
+team 16 vs. team 6
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                   
+c                                                                                                                                                   
+
+team 16 vs. team 7
+-4 vs. 0
+loyal vengeful vs. loyal vengeful
+cb                                                                                                                                          
+b                                                                                                                                           
+
+team 16 vs. team 8
+-3 vs. -3
+loyal vengeful vs. loyal vengeful with permanent second impression
+cb                                                                                                                                                                            
+bcbcc c                                                                                                                                                                       
+
+team 16 vs. team 9
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                      
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 16 vs. team 10
+-5 vs. -1
+loyal vengeful vs. loyal vengeful
+cb                                                                                                                                                             
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 16 vs. team 11
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                      
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 16 vs. team 12
+-4 vs. 0
+loyal vengeful vs. loyal vengeful
+cb                                                                                                                                    
+b                                                                                                                                     
+
+team 16 vs. team 13
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                            
+c                                                                                                                                            
+
+team 16 vs. team 14
+0 vs. 0
+loyal vengeful vs. loyal vengeful occasionally greedy
+c                                                                                                                                                                                           
+c      b                          b      b b   b   b                     b   b          b            b               b  b             b     b   b           b       b      b                
+
+team 16 vs. team 15
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                             
+c                                                                                                                                             
+
+team 17 vs. team 0
+-6 vs. -2
+loyal vengeful vs. loyal
+cb                                                                                                                               
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 17 vs. team 1
+-5 vs. -1
+loyal vengeful vs. backstabber
+cb                                                                                                                                                                       
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 17 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                              
+c                                                                                                                                                              
+
+team 17 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                 
+c                                                                                                                                 
+
+team 17 vs. team 4
+-3 vs. 0
+loyal vengeful vs. betray every 3rd round
+cb                                                                                                                                                                                              
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  
+
+team 17 vs. team 5
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                                         
+c                                                                                                                                                                                         
+
+team 17 vs. team 6
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                   
+c                                                                                                                                                                   
+
+team 17 vs. team 7
+-5 vs. 0
+loyal vengeful vs. loyal vengeful
+cb                                                                                                           
+b                                                                                                            
+
+team 17 vs. team 8
+-4 vs. -4
+loyal vengeful vs. loyal vengeful with permanent second impression
+cb                                                                                                    
+bcbcc c                                                                                               
+
+team 17 vs. team 9
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                                     
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 17 vs. team 10
+-6 vs. -2
+loyal vengeful vs. loyal vengeful
+cb                                                                                                                                
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 17 vs. team 11
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                               
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 17 vs. team 12
+-5 vs. 0
+loyal vengeful vs. loyal vengeful
+cb                                                                                                              
+b                                                                                                               
+
+team 17 vs. team 13
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                      
+c                                                                                                                      
+
+team 17 vs. team 14
+0 vs. 0
+loyal vengeful vs. loyal vengeful occasionally greedy
+c                                                                                                                                       
+c                          b b           bb   b        b              bb        b              b       b        b    b                  
+
+team 17 vs. team 15
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                                     
+c                                                                                                                                                                                     
+
+team 17 vs. team 16
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                    
+c                                                                                                                                                    
+
+team 18 vs. team 0
+-7 vs. -2
+loyal vengeful vs. loyal
+cb                                                                                                                    
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 18 vs. team 1
+-5 vs. -1
+loyal vengeful vs. backstabber
+cb                                                                                                                                                          
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 18 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                   
+c                                                                                                   
+
+team 18 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                        
+c                                                                                                                                                        
+
+team 18 vs. team 4
+-5 vs. 1
+loyal vengeful vs. betray every 3rd round
+cb                                                                                                  
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b
+
+team 18 vs. team 5
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                           
+c                                                                                                           
+
+team 18 vs. team 6
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                               
+c                                                                                                               
+
+team 18 vs. team 7
+-4 vs. 0
+loyal vengeful vs. loyal vengeful
+cb                                                                                                                                 
+b                                                                                                                                  
+
+team 18 vs. team 8
+-4 vs. -4
+loyal vengeful vs. loyal vengeful with permanent second impression
+cb                                                                                                         
+bcbcc c                                                                                                    
+
+team 18 vs. team 9
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                         
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 18 vs. team 10
+-6 vs. -2
+loyal vengeful vs. loyal vengeful
+cb                                                                                                                                          
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 18 vs. team 11
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 18 vs. team 12
+-4 vs. 0
+loyal vengeful vs. loyal vengeful
+cb                                                                                                                                                               
+b                                                                                                                                                                
+
+team 18 vs. team 13
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                                           
+c                                                                                                                                                                                           
+
+team 18 vs. team 14
+0 vs. 0
+loyal vengeful vs. loyal vengeful occasionally greedy
+c                                                                                                                                                                                            
+c                                b b   bb     b  b  bb     b bb    b                 b       b b               b                      b                     b         b      b             b 
+
+team 18 vs. team 15
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                      
+c                                                                                                                                                      
+
+team 18 vs. team 16
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                                             
+c                                                                                                                                                                                             
+
+team 18 vs. team 17
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                                   
+c                                                                                                                                                                                   
+
+team 19 vs. team 0
+-6 vs. -2
+loyal vengeful vs. loyal
+cb                                                                                                                              
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 19 vs. team 1
+-7 vs. -2
+loyal vengeful vs. backstabber
+cb                                                                                                                     
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 19 vs. team 2
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                          
+c                                                                                                                                          
+
+team 19 vs. team 3
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                                    
+c                                                                                                                                                                                    
+
+team 19 vs. team 4
+-4 vs. 0
+loyal vengeful vs. betray every 3rd round
+cb                                                                                                                                    
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b 
+
+team 19 vs. team 5
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                              
+c                                                                                                                                              
+
+team 19 vs. team 6
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                                              
+c                                                                                                                                                                                              
+
+team 19 vs. team 7
+-3 vs. 0
+loyal vengeful vs. loyal vengeful
+cb                                                                                                                                                                                 
+b                                                                                                                                                                                  
+
+team 19 vs. team 8
+-3 vs. -3
+loyal vengeful vs. loyal vengeful with permanent second impression
+cb                                                                                                                                                                                
+bcbcc c                                                                                                                                                                           
+
+team 19 vs. team 9
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                                    
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 10
+-7 vs. -2
+loyal vengeful vs. loyal vengeful
+cb                                                                                                          
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 19 vs. team 11
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                     
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 19 vs. team 12
+-4 vs. 0
+loyal vengeful vs. loyal vengeful
+cb                                                                                                                                                         
+b                                                                                                                                                          
+
+team 19 vs. team 13
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                           
+c                                                                                                                                                           
+
+team 19 vs. team 14
+0 vs. 0
+loyal vengeful vs. loyal vengeful occasionally greedy
+c                                                                                                                                              
+c b                                        b b    b            b                b  b                           b          b         b    b     
+
+team 19 vs. team 15
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                          
+c                                                                                                                                                          
+
+team 19 vs. team 16
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                
+c                                                                                                                                
+
+team 19 vs. team 17
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                             
+c                                                                                                                                             
+
+team 19 vs. team 18
+0 vs. 0
+loyal vengeful vs. loyal vengeful
+c                                                                                                                                                                                                     
+c                                                                                                                                                                                                     
+
+
+
+
+	Each column shows score earned per round against each other player.
+
+
+	P0	P1	P2	P3	P4	P5	P6	P7	P8	P9	P10	P11	P12	P13	P14	P15	P16	P17	P18	P19	
+P0	0	-250	-5	-6	-84	-5	-5	-2	-253	-375	-250	-375	-2	-5	-27	-5	-5	-6	-7	-6	
+P1	-250	0	-5	-5	-84	-5	-5	-2	-253	-376	-250	-375	-2	-8	-27	-6	-4	-5	-5	-7	
+P2	-1	-1	0	0	0	0	0	0	-4	0	-1	0	0	0	0	0	0	0	0	0	
+P3	-2	-1	0	0	0	0	0	0	-3	0	-2	0	0	0	0	0	0	0	0	0	
+P4	-84	-84	-4	-5	0	-5	-5	-2	-4	-167	-84	-167	-3	-3	-6	-5	-3	-3	-5	-4	
+P5	-1	-1	0	0	0	0	0	0	-4	0	-2	0	0	0	0	0	0	0	0	0	
+P6	-1	-1	0	0	1	0	0	0	-3	0	-2	0	0	0	0	0	0	0	0	0	
+P7	-2	-2	-5	-4	-2	-4	-5	0	-3	-5	-2	-4	-2	-4	-3	-3	-4	-5	-4	-3	
+P8	-248	-247	-4	-3	-1	-4	-3	-3	0	-202	-248	-200	-2	-3	-3	-4	-3	-4	-4	-3	
+P9	-75	-75	0	0	33	0	0	0	-199	0	-75	0	0	0	6	0	0	0	0	0	
+P10	-250	-250	-5	-7	-84	-8	-6	-2	-252	-376	0	-375	-2	-7	-22	-5	-5	-6	-6	-7	
+P11	-75	-75	0	0	33	0	0	0	-200	0	-75	0	0	0	3	0	0	0	0	0	
+P12	-2	-2	-5	-5	-3	-3	-5	-2	-2	-4	-2	-3	0	-3	-5	-3	-4	-5	-4	-4	
+P13	-1	-2	0	0	0	0	0	0	-3	0	-2	0	0	0	0	0	0	0	0	0	
+P14	-23	-24	0	0	-3	0	0	0	-3	-57	-17	-36	0	0	0	0	0	0	0	0	
+P15	-1	-2	0	0	0	0	0	0	-4	0	-1	0	0	0	0	0	0	0	0	0	
+P16	-1	-1	0	0	0	0	0	0	-3	0	-1	0	0	0	0	0	0	0	0	0	
+P17	-2	-1	0	0	0	0	0	0	-4	0	-2	0	0	0	0	0	0	0	0	0	
+P18	-2	-1	0	0	1	0	0	0	-4	0	-2	0	0	0	0	0	0	0	0	0	
+P19	-2	-2	0	0	0	0	0	0	-3	0	-2	0	0	0	0	0	0	0	0	0	
+Total:	-1016	-1015	-28	-31	-182	-29	-31	0	-1194	-1559	-1011	-1533	-1	-29	-79	-26	-24	-31	-32	-31	
+
+
+ Average per round, with team strategy names:
+
+player 0: -51 points: loyal
+player 1: -51 points: backstabber
+player 2: -2 points: loyal vengeful
+player 3: -2 points: loyal vengeful
+player 4: -10 points: betray every 3rd round
+player 5: -2 points: loyal vengeful
+player 6: -2 points: loyal vengeful
+player 7: 0 points: loyal vengeful
+player 8: -60 points: loyal vengeful with permanent second impression
+player 9: -78 points: loyal vengeful
+player 10: -51 points: loyal vengeful
+player 11: -77 points: loyal vengeful
+player 12: -1 points: loyal vengeful
+player 13: -2 points: loyal vengeful
+player 14: -4 points: loyal vengeful occasionally greedy
+player 15: -2 points: loyal vengeful
+player 16: -2 points: loyal vengeful
+player 17: -2 points: loyal vengeful
+player 18: -2 points: loyal vengeful
+player 19: -2 points: loyal vengeful
+
+
+-------------------------------------------------------------------------------
+Here is the code that produced this data:
+
+from __future__ import print_function
+
+''' 
+PrisonerDilemma.py allows hard-coding different strategies
+for the Iterative Prisoners Dilemma, the canonical game of game-theory.
+Each strategy plays 100 to 200 rounds against each other strategy.
+The results of all previous rounds within a 100-200 round stretch are known
+to both players. 
+
+play_tournament() executes the tournament and stores output in tournament.txt
+
+Players should each code their strategies in their assigned section of code.
+
+Aggregated results are stored in tournament.txt
+
+Unpublished work (c)2013 Project Lead The Way
+CSE Project 1.3.5 Collaborating on a Project
+Draft, Do Not Distribute
+Version 8/23/2013 
+'''
+
+import random
+def play_round(player1, player2, history1, history2, score1, score2):
+    '''
+    Calls the get_action() function which will get the characters
+    'c' or 'b' for collude or betray for each player.
+    The history is provided in a string, e.g. 'ccb' indicates the player
+    colluded in the first two rounds and betrayed in the most recent round.
+    Returns a 4-tuple with updated histories and scores
+    (history1, history2, score1, score2)
+    '''
+    
+    RELEASE = 0 # (R) when both players collude
+    TREAT = 100 # (T) when you betray your partner
+    SEVERE_PUNISHMENT = -500 # (S) when your partner betrays you
+    PUNISHMENT = -250 # (P) when both players betray each other
+    # Keep T > R > P > S to be a Prisoner's Dilemma
+    # Keep 2R > T + S to be an Iterative Prisoner's Dilemma
+    
+    #Get the two players' actions and remember them.
+    action1 = get_action(player1, history1, history2, score1, score2)
+    action2 = get_action(player2, history2, history1, score2, score1)
+    if type(action1) != str:
+        action1=' '
+    if type(action2) != str:
+        action2=' '
+    #Append the actions to the previous histories, to return
+    new_history1 = history1 + action1
+    new_history2 = history2 + action2
+    
+    #Change scores based upon player actions
+    if action1 not in ('c','b') or action2 not in ('c','b'):
+    # Do nothing if someone's code returns an improper action
+        new_score1 = score1
+        new_score2 = score2
+        
+    else: 
+    #Both players' code provided proper actions
+        if action1 == 'c':
+            if action2 == 'c':
+                # both players collude; get reward
+                new_score1 = score1 + RELEASE
+                new_score2 = score2 + RELEASE
+            else:
+                # players 1,2 collude, betray; get sucker, tempation
+                new_score1 = score1 + SEVERE_PUNISHMENT
+                new_score2 = score2 + TREAT
+        else:
+            if action2 == 'c':
+                # players 1,2 betray, collude; get tempation, sucker
+                new_score1 = score1 + TREAT
+                new_score2 = score2 + SEVERE_PUNISHMENT                       
+            else:
+                # both players betray; get punishment   
+                new_score1 = score1 + PUNISHMENT
+                new_score2 = score2 + PUNISHMENT
+                    
+    #send back the updated histories and scores
+    return (new_history1, new_history2, new_score1, new_score2)
+   
+def play_iterative_rounds(player1, player2):
+    '''
+    Plays a random number of rounds (between 100 and 200 rounds) 
+    of the iterative prisoners' dilemma between two strategies.
+    identified in the parameters as integers.
+    Returns 4-tuple, for example ('cc', 'bb', -200, 600) 
+    but with much longer strings 
+    '''
+    number_of_rounds = random.randint(100,200)
+    moves1 = ''
+    moves2 = ''
+    score1 = 0
+    score2 = 0
+    for round in range(number_of_rounds):
+        moves1, moves2, score1, score2 = \
+            play_round(player1, player2, moves1, moves2, score1, score2)
+    return (moves1, moves2, score1, score2)
+
+def get_action(player, history, opponent_history, score, opponent_score, getting_team_name=False):
+    '''Gets the strategy for the player, given their own history and that of
+    their opponent, as well as the current scores within this pairing.
+    The parameters history and opponenet history are strings with one letter
+    per round that has been played so far: either an 'c' for collude or a 'b' for 
+    betray. The function should return one character, 'c' or 'b'. 
+    The history strings have the first round between these two players 
+    as the first character and the most recent round as the last character.'''
+      
+    ######
+    ######
+    #
+    # This example player always colludes
+    if player == 0:
+        if getting_team_name:
+            return 'loyal'
+        else:
+            return 'b'
+
+    
+        
+            
+                
+                    
+                            
+    ######
+    ######
+    #
+    #This example player always betrays.      
+    elif player == 1:
+        if getting_team_name:
+            return 'backstabber'
+        else:
+            return 'b'
+
+
+
+
+
+
+
+
+    ######
+    ######
+    #   
+    #This example player is silent at first and then 
+    #only betrays if they were a sucker last round.
+    elif player == 2:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray if they were severely punished last time
+        
+
+
+    
+    
+    
+    
+    # EACH STUDENT TEAM CAN CHANGE ONE OF THESE elif SEGMENTS OF CODE.
+
+
+
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 3:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+          
+
+
+
+
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 4:
+        if getting_team_name:
+            return 'betray every 3rd round'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            size = len(history)
+            if(size%3==0): #the number of rounds played is a multiple of 3
+                return 'b'
+            
+    
+    
+    
+
+
+
+
+
+
+
+
+    ######
+    ######        
+    #
+    elif player == 5:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+          
+    
+    
+    
+    
+
+
+
+
+
+    ######
+    ######        
+    #
+    elif player == 6:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            
+              
+
+
+
+
+
+
+
+
+
+
+    ######
+    ######       
+    #
+    elif player == 7:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'b'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were sucker last time
+           
+
+
+
+
+
+
+
+
+
+    ######
+    ######        
+    #
+    elif player == 8:
+        if getting_team_name:
+            #if there was a previous round just like 
+            return 'loyal vengeful with permanent second impression'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy      
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'b'
+            else:
+                # if there was a previous round just like the last one,
+                # do whatever they did in the round that followed it
+                recent_round_opponent = opponent_history[-1]
+                recent_round_me = history[-1]
+                            
+                #go through rounds before that one
+                for round in range(len(history)-1):
+                    prior_round_opponent = opponent_history[round]
+                    prior_round_me = history[round]
+                    #if one matches
+                    if (prior_round_me == recent_round_me) and \
+                            (prior_round_opponent == recent_round_opponent):
+                        return opponent_history[round]
+                # no match found
+                if history[-1]=='c' and opponent_history[-1]=='b':
+                    return 'b' # betray is they were severely punished last time
+                else:
+                    return 'c' #otherwise collude
+
+
+
+
+
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 9:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+
+
+
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 10:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'b'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'c' # betray is they were severely punished last time
+            else:
+                return 'b' #otherwise collude
+
+
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 11:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+
+
+
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 12:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'b'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'c' # betray is they were severely punished last time
+           
+    
+    
+
+
+    ######
+    ######
+    #
+    elif player == 13:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+           
+    
+    
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 14:
+        if getting_team_name:
+            return 'loyal vengeful occasionally greedy'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                if random.random()<0.1: #10% of the other rounds
+                    return 'b'         #betray
+           
+    
+    
+    
+    
+
+
+
+    ######
+    ######
+    #
+    elif player == 15:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+           
+    
+    
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 16:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            
+    
+    
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 17:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            
+    
+    
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 18:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            
+    
+    
+
+
+
+
+
+
+
+    ######
+    ######
+    #
+    elif player == 19:
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            
+    
+    
+
+
+
+
+
+
+
+def play_tournament(num_players):
+    #create a list of zeros, one per player
+    scores = []
+    for i in range(num_players):
+        scores += [0]
+    
+    
+    ''' Get the team name from each team algorithm'''
+    #create a list of the right length
+    team_names = range(num_players)
+    for player in range(num_players):
+        team_names[player] = get_action(player,'','',0,0,getting_team_name=True)
+             
+    # each element will become a column for each player
+    # range is just to get list of correct size
+    result_table=range(num_players)     
+    moves_table=range(num_players) 
+    
+    
+    for player1 in range(num_players):  
+        # create the column for each player
+        # range just to get list of correct size
+        result_table[player1]=range(num_players) 
+        result_table[player1][player1]=0 # initialize unused diagonal to 0
+        moves_table[player1]=range(num_players)
+        # play a game between with every other player of lower number
+        for player2 in range(player1):
+            moves1, moves2, score1, score2 = \
+                play_iterative_rounds(player1, player2)
+            
+            rounds = len(moves1)
+            score1_per_round = score1/rounds 
+            score2_per_round = score2/rounds
+            
+            result_table[player1][player2]=score1_per_round
+            result_table[player2][player1]=score2_per_round
+            
+            moves_table[player1][player2] = moves1
+            moves_table[player2][player1] = moves2
+            
+            #accumulate the results for the two players
+            scores[player1] += score1*1.0/len(moves1)#ends up same as column sum
+            scores[player2] += score2*1.0/len(moves2)#ends up same as column sum
+     
+    '''report round-level results in a data file'''
+    use_datafile=True
+    if use_datafile:
+        # use the same directory as the python script
+        import os.path              
+        directory = os.path.dirname(os.path.abspath(__file__))  
+        
+        #name the file tournament.txt
+        filename = os.path.join(directory, 'tournament.txt')
+        #create the file for the round-by-round results
+        results = open(filename,'w')
+        for player1 in range(num_players):
+            for player2 in range(player1):
+                # store the results in the file
+                #title by team numbers
+                results.write('team ' + str(player1) + 
+                              ' vs. ' + 'team ' + str(player2) +'\n')
+                #title by player-on-player average score
+                results.write(str(result_table[player1][player2]) + 
+                              ' vs. ' + str(result_table[player2][player1])+'\n')
+                #title by team names
+                results.write(team_names[player1] + 
+                             ' vs. ' + team_names[player2] + '\n')
+                #show the moves, aligned vertically
+                results.write(moves_table[player1][player2] +'\n')
+                results.write(moves_table[player2][player1] +'\n')
+                #blank line between each pair's results
+                results.write('\n')
+            
+        #at the bottom repeat the output that was sent to the screen
+        #print a title for the table
+        results.write('\n\n\n\tEach column shows score earned per round against each other player.\n\n\n')
+        #print header line
+        results.write('\t') #skip 1st column
+        for player1 in range(num_players):
+            results.write('P'+str(player1)+'\t') # label each additional column
+        results.write('\n')
+        
+        #print each player's scores
+        for player2 in range(num_players):
+            results.write('P'+str(player2)+'\t') #label the player's row
+            for player1 in range(num_players):
+                #print score against each other player
+                results.write(str(result_table[player1][player2])+'\t') 
+            results.write('\n')
+        results.write('Total:\t')
+        for player1 in range(num_players):
+            results.write(str(int(scores[player1]))+'\t')
+        results.write('\n\n\n Average per round, with team strategy names:\n\n')       
+    
+        #print team ids, total scores, and names
+        for player in range(num_players):
+            results.write('player ' + str(player) + ': ' + \
+                    str(int(scores[player])/num_players) + ' points: '+\
+                    team_names[player]+'\n')
+                    
+                    
+        #append the file showing algorithms
+        results.write('\n\n' + '-'*79 + '\n' + \
+                    'Here is the code that produced this data:\n\n')
+        this_code_file = open(__file__, 'r')
+        for line in this_code_file:
+            results.write(line)
+                
+    '''report the results on screen'''        
+    #print a title for the table
+    print('\n\n\tEach column shows score earned per round against each other player.\n\n')
+    
+    #print header line
+    print('\t', end='') #skip 1st column
+    for player1 in range(num_players):
+        print('P',player1, end='\t') # label each additional column
+    print()
+    
+    #print each player's scores
+    for player2 in range(num_players):
+        print('P',player2, end='\t') #label the player's row
+        for player1 in range(num_players):
+            #print score against each other player
+            print(result_table[player1][player2], end='\t') 
+        print()
+    #print row of total scores
+    print('Total:\t',end='')
+    for player1 in range(num_players):
+        print(str(int(scores[player1])),end='\t')
+
+    print('\n\n\n Average per round, with team strategy names:\n\n')
+    #print team ids, total scores, and names
+    for player in range(num_players):
+        print('player ' + str(player) , ': ' , 
+               str(int(scores[player])/num_players) , ' points: ',
+               team_names[player])
+    

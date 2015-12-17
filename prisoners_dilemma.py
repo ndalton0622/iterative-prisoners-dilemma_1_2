@@ -113,7 +113,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
         if getting_team_name:
             return 'loyal'
         else:
-            return 'c'
+            return 'b'
 
     
         
@@ -151,8 +151,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'c'
             elif history[-1]=='c' and opponent_history[-1]=='b':
                 return 'b' # betray if they were severely punished last time
-            else:
-                return 'c' #otherwise collude
+        
 
 
     
@@ -183,8 +182,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'c'
             elif history[-1]=='c' and opponent_history[-1]=='b':
                 return 'b' # betray is they were severely punished last time
-            else:
-                return 'c' #otherwise collude
+          
 
 
 
@@ -207,9 +205,8 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             # to compute your strategy
             size = len(history)
             if(size%3==0): #the number of rounds played is a multiple of 3
-                return 'c'
-            else:
                 return 'b'
+            
     
     
     
@@ -234,8 +231,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'c'
             elif history[-1]=='c' and opponent_history[-1]=='b':
                 return 'b' # betray is they were severely punished last time
-            else:
-                return 'c' #otherwise collude
+          
     
     
     
@@ -258,9 +254,8 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'c'
             elif history[-1]=='c' and opponent_history[-1]=='b':
                 return 'b' # betray is they were severely punished last time
-            else:
-                return 'c' #otherwise collude
-    
+            
+              
 
 
 
@@ -281,13 +276,10 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             # use history, opponent_history, score, opponent_score
             # to compute your strategy
             if len(opponent_history)==0: #It's the first round: collude
-                return 'c'
+                return 'b'
             elif history[-1]=='c' and opponent_history[-1]=='b':
                 return 'b' # betray is they were sucker last time
-            else:
-                return 'c' #otherwise collude
-
-
+           
 
 
 
@@ -308,7 +300,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             # use history, opponent_history, score, opponent_score
             # to compute your strategy      
             if len(opponent_history)==0: #It's the first round: collude
-                return 'c'
+                return 'b'
             else:
                 # if there was a previous round just like the last one,
                 # do whatever they did in the round that followed it
@@ -375,11 +367,11 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             # use history, opponent_history, score, opponent_score
             # to compute your strategy
             if len(opponent_history)==0: #It's the first round: collude
-                return 'c'
+                return 'b'
             elif history[-1]=='c' and opponent_history[-1]=='b':
-                return 'b' # betray is they were severely punished last time
+                return 'c' # betray is they were severely punished last time
             else:
-                return 'c' #otherwise collude
+                return 'b' #otherwise collude
 
 
 
@@ -424,11 +416,10 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             # use history, opponent_history, score, opponent_score
             # to compute your strategy
             if len(opponent_history)==0: #It's the first round: collude
-                return 'c'
+                return 'b'
             elif history[-1]=='c' and opponent_history[-1]=='b':
-                return 'b' # betray is they were severely punished last time
-            else:
-                return 'c' #otherwise collude
+                return 'c' # betray is they were severely punished last time
+           
     
     
 
@@ -444,8 +435,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'c'
             elif history[-1]=='c' and opponent_history[-1]=='b':
                 return 'b' # betray is they were severely punished last time
-            else:
-                return 'c' #otherwise collude
+           
     
     
 
@@ -469,8 +459,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             else:
                 if random.random()<0.1: #10% of the other rounds
                     return 'b'         #betray
-                else:
-                    return 'c'         #otherwise collude
+           
     
     
     
@@ -489,8 +478,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'c'
             elif history[-1]=='c' and opponent_history[-1]=='b':
                 return 'b' # betray is they were severely punished last time
-            else:
-                return 'c' #otherwise collude
+           
     
     
 
@@ -511,8 +499,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'c'
             elif history[-1]=='c' and opponent_history[-1]=='b':
                 return 'b' # betray is they were severely punished last time
-            else:
-                return 'c' #otherwise collude
+            
     
     
 
@@ -533,8 +520,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'c'
             elif history[-1]=='c' and opponent_history[-1]=='b':
                 return 'b' # betray is they were severely punished last time
-            else:
-                return 'c' #otherwise collude
+            
     
     
 
@@ -555,8 +541,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'c'
             elif history[-1]=='c' and opponent_history[-1]=='b':
                 return 'b' # betray is they were severely punished last time
-            else:
-                return 'c' #otherwise collude
+            
     
     
 
@@ -577,8 +562,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'c'
             elif history[-1]=='c' and opponent_history[-1]=='b':
                 return 'b' # betray is they were severely punished last time
-            else:
-                return 'c' #otherwise collude
+            
     
     
 
